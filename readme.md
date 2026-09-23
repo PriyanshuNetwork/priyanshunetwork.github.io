@@ -1,4 +1,4 @@
-# CrystalKiiZE
+# Priyanshu Network
 
 Creating Minecraft mods and tools.
 
@@ -20,14 +20,8 @@ Co-Founder & Developer
 
 ## Supported Platforms
 
-- Fabric
-
-## Links
-
-- [![Modrinth](https://img.shields.io/badge/Modrinth-CrystalKiiZE-00AF5C)](https://modrinth.com/organization/crystalkiize)
-
-- [![GitHub](https://img.shields.io/badge/GitHub-CrystalKiiZE-black)](https://github.com/CrystalKiiZE)
+- Windows 10 or Windows 11(We don't know about Windows 7, 8 or 8.1 right now)
 
 ## License
 
-[AP-CrystalKiiZE Proprietary License v1.0](https://github.com/CrystalKiiZE/main-area/blob/main/LICENSE)
+[AP-Priyanshu Network Proprietary](https://github.com/PriyanshuNetwork/main-area/blob/main/LICENSE)
