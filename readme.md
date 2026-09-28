@@ -1,7 +1,5 @@
 # Priyanshu Network
 
-Creating Minecraft mods and tools.
-
 ## About
 
 An Organization with Nothing to do.
@@ -14,9 +12,6 @@ An Organization with Nothing to do.
 
 ### PSK
 Lead Developer
-
-### AbsolxteAnsh
-Co-Founder & Developer
 
 ## Supported Platforms
 
